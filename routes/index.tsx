@@ -17,7 +17,7 @@ export default function Home() {
         </p>
         <img src="./walk.png" class="h-20" alt="walking dinos" />
         <Search />
-
+          Made By Ishan Jaiswal, XIIS
       </main>
     </div>
   );
