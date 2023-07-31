@@ -17,14 +17,6 @@ export default function Home() {
         </p>
         <img src="./walk.png" class="h-20" alt="walking dinos" />
         <Search />
-        <a href="https://github.com/xyntechx/diKnow" target="_blank">
-          <img
-            class="fixed z-10 md:(bottom-5 right-5) bottom-2 right-2 animate-bounce"
-            width="45"
-            height="45"
-            src="/github.png"
-            alt="Explore diKnow on GitHub"
-          />
         </a>
       </main>
     </div>
